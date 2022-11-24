@@ -121,7 +121,7 @@ class BottomSheetWidget extends StatelessWidget {
                   primary: primaryColor,
                   minimumSize: const Size.fromHeight(50), // NEW
                 ),
-                child: const Text('Elevated '),
+                child: const Text('Book Now '),
               )
             ],
           ),
